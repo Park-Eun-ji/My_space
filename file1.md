@@ -1,3 +1,4 @@
 "hello git" 
 "hello manual" 
-"hello mirero" 
+"hello mirero"
+"hello platform" 
